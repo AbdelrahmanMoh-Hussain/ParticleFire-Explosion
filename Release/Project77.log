@@ -1,0 +1,13 @@
+﻿  Particle.cpp
+  Screen.cpp
+  Source.cpp
+F:\Projects🐱‍💻\Project77\Source.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Projects🐱‍💻\Project77\Source.cpp(38,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Projects🐱‍💻\Project77\Source.cpp(39,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Swarm.cpp
+  Generating code
+  30 of 31 functions (96.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project77.vcxproj -> F:\Projects🐱‍💻\Project77\Release\Project77.exe

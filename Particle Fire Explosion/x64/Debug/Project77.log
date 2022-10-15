@@ -1,0 +1,17 @@
+﻿Screen.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "public: bool __cdecl Screen::init(void)" (?init@Screen@@QEAA_NXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "public: void __cdecl Screen::close(void)" (?close@Screen@@QEAAXXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "public: bool __cdecl Screen::processEvents(void)" (?processEvents@Screen@@QEAA_NXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "public: bool __cdecl Screen::init(void)" (?init@Screen@@QEAA_NXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_CreateTexture referenced in function "public: bool __cdecl Screen::init(void)" (?init@Screen@@QEAA_NXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_UpdateTexture referenced in function "public: void __cdecl Screen::update(void)" (?update@Screen@@QEAAXXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "public: void __cdecl Screen::update(void)" (?update@Screen@@QEAAXXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: void __cdecl Screen::update(void)" (?update@Screen@@QEAAXXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "public: void __cdecl Screen::update(void)" (?update@Screen@@QEAAXXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_DestroyTexture referenced in function "public: void __cdecl Screen::close(void)" (?close@Screen@@QEAAXXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_DestroyRenderer referenced in function "public: void __cdecl Screen::close(void)" (?close@Screen@@QEAAXXZ)
+Screen.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: bool __cdecl Screen::init(void)" (?init@Screen@@QEAA_NXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced in function SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\GL\SDL2-devel-2.0.14-VC\SDL2\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\GL\SDL2-devel-2.0.14-VC\SDL2\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+F:\Projects🐱‍💻\Project77\x64\Debug\Particle Fire Explosion.exe : fatal error LNK1120: 14 unresolved externals

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\GL\Project77\Source.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\GL\Project77\Source.cpp(35,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GL\Project77\Source.cpp(36,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project77.vcxproj -> C:\GL\Project77\Debug\Project77.exe

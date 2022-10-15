@@ -1,0 +1,2 @@
+C:\GL\Project77\Debug\Project77.exe
+C:\GL\Project77\Debug\Project77.pdb
